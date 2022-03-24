@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webdockerdemo:
+    image: ${DOCKER_REGISTRY-}webdockerdemo
+    build:
+      context: .
+      dockerfile: webdockerdemo/Dockerfile

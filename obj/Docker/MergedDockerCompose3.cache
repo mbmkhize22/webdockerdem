@@ -1,0 +1,11 @@
+services:
+  webdockerdemo:
+    build:
+      context: /Users/nhlanhla/Development/projects/C#/webdockerdemo
+      dockerfile: webdockerdemo/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webdockerdemo
+    ports:
+    - target: 8080
+version: '3.4'
