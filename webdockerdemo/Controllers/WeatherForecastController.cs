@@ -35,5 +35,17 @@ namespace webdockerdemo.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("GetWeather")]
+        public WeatherForecast GetWeather()
+        {
+            var rng = new Random();
+            return new WeatherForecast
+            {
+                Date = DateTime.Now.AddDays(1),
+                TemperatureC = rng.Next(-20, 55),
+                Summary = Summaries[rng.Next(Summaries.Length)]
+            };
+        }
     }
 }

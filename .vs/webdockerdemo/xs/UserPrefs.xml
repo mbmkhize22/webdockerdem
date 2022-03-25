@@ -1,16 +1,7 @@
-﻿<Properties StartupConfiguration="{24447AF6-72AD-4D58-9D48-8982C0482C32}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="webdockerdemo/Program.cs">
+﻿<Properties StartupConfiguration="{817C7963-BCCB-432A-BEE4-C6F6BEAE7E4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webdockerdemo/Controllers/WeatherForecastController.cs">
     <Files>
       <File FileName="webdockerdemo/Controllers/WeatherForecastController.cs" Line="23" Column="30" />
-      <File FileName="webdockerdemo/Dockerfile" Line="5" Column="10" />
-      <File FileName="docker-compose.override.yml" Line="8" Column="13" />
-      <File FileName=".dockerignore" Line="1" Column="1" />
-      <File FileName="docker-compose.yml" Line="1" Column="1" />
-      <File FileName="webdockerdemo/Properties/launchSettings.json" Line="31" Column="1" />
-      <File FileName="webdockerdemo/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="webdockerdemo/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="webdockerdemo/Startup.cs" Line="1" Column="1" />
-      <File FileName="webdockerdemo/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,10 +11,12 @@
               <Node name="docker-compose.yml" expanded="True" />
             </Node>
             <Node name="webdockerdemo" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

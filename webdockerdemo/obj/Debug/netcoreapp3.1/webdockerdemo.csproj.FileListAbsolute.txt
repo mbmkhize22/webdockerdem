@@ -12,17 +12,7 @@
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.csproj.CoreCompileInputs.cache
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.MvcApplicationPartsAssemblyInfo.cache
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/staticwebassets/webdockerdemo.StaticWebAssets.Manifest.cache
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/staticwebassets/webdockerdemo.StaticWebAssets.xml
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/scopedcss/bundle/webdockerdemo.styles.css
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.RazorTargetAssemblyInfo.cache
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.dll
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.pdb
 /Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.genruntimeconfig.cache
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/System.Web.Http.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/System.Web.Http.WebHost.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/Microsoft.Web.Infrastructure.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/Swashbuckle.Core.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/bin/Debug/netcoreapp3.1/WebActivatorEx.dll
-/Users/nhlanhla/Development/projects/C#/webdockerdemo/webdockerdemo/obj/Debug/netcoreapp3.1/webdockerdemo.csproj.CopyComplete
